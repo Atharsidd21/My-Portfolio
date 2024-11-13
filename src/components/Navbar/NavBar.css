@@ -1,0 +1,14 @@
+.Nav{
+  height: 75px;
+  z-index: 100;
+}
+.nav-link{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+.top{
+  background-color: rgb(207, 13, 13);
+  
+}

@@ -34,7 +34,7 @@ const Home = () => {
         <button className="btn btn-success use" type="button">
           <Link
             className="resume"
-            to="https://drive.google.com/file/d/1M_Skli47nRNHbZ7gmqSuN_73RfDk_2JP/view?usp=sharing"
+            to="https://drive.google.com/file/d/1wp5JAJIlxythLLL0bD-7BI9RLMTiEOYC/view?usp=sharing"
             style={{color:"white",textDecoration:"none"}}
             target="Resume"
           >

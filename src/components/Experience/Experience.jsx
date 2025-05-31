@@ -6,42 +6,46 @@ const Experience = () => {
     <div>
       <div className="container-fluid">
         <div className="timeline">
-        <h1 className="heading">Experience</h1>
-          
+          <h1 className="heading">Experience</h1>
+
           <div className="outer">
-          <div className="experience card">
-              <div className="info">
-                <h3 className="title">Navile Digital Access(May 2024-July 2024)</h3>
-                <p>
-                ● Summer Industrial Training in Game Development.
-                <br/>
-                ● Worked on various projects using Unity 
-                </p>
-              </div>
-            </div>
+           
             <div className="experience card">
               <div className="info">
                 <h3 className="title">GauravGO Technologies,Odisha,India(October2024-November 2024)</h3>
                 <p>
-                ● Enrolled as a Game Dev Trainee.
-                <br/>
-                ● Wokred on a Zombie game during their Training program uisng Unreal Engine.
+                  ● Completed extensive training on Unreal Engine with a focus on Blueprints and C++.
+                  <br />
+                  ● Wokred on a various games during their Training program uisng Unreal Engine.
+                  <br />
+                  ● Built gameplay mechanics and small prototypes to reinforce core game development concepts.
+                  <br />
+                  ● Gained hands-on experience in level design, AI behavior, and dynamic event scripting.
+                  <br />
+                  ● Worked on optimizing environments and interactions within Unreal’s visual scripting system.
+                  <br />
+                  ● Participated in debugging and testing processes to ensure smooth user experience.
+
                 </p>
               </div>
             </div>
             <div className="experience card">
               <div className="info">
                 <h3 className="title">Ansh Jain Global Networks LLP
-                (Current)</h3>
+                  (November 2024 - February 2025)</h3>
                 <p>
-                ● Wokring as a Unity Game Developer.
-                <br/>
-                ● My main task is to program mechanics for mobile games.
+                   ● Contributed to multiple mobile game projects using Unity and C#. 
+                  <br />
+                  ● Implemented core gameplay features, UI/UX elements, and interactive mechanics. 
+                  <br />
+                  ● Collaborated with a team of developers and artists to optimize performance for Android builds 
+                  <br />
+                  ● Participated in debugging and testing processes to ensure smooth user experience. 
                 </p>
               </div>
             </div>
-            
-            
+
+
           </div>
         </div>
       </div>
